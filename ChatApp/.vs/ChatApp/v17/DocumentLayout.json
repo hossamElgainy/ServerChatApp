@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\asp.net projects\\ChatAppWithAngular\\ChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63EB5001-008A-4E8D-BD42-8F539106D633}|Api\\Api.csproj|e:\\asp.net projects\\chatappwithangular\\chatapp\\api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EB5001-008A-4E8D-BD42-8F539106D633}|Api\\Api.csproj|solutionrelative:api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EB5001-008A-4E8D-BD42-8F539106D633}|Api\\Api.csproj|e:\\asp.net projects\\chatappwithangular\\chatapp\\api\\dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EB5001-008A-4E8D-BD42-8F539106D633}|Api\\Api.csproj|solutionrelative:api\\dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageDto.cs",
+              "DocumentMoniker": "E:\\asp.net projects\\ChatAppWithAngular\\ChatApp\\Api\\Dtos\\MessageDto.cs",
+              "RelativeDocumentMoniker": "Api\\Dtos\\MessageDto.cs",
+              "ToolTip": "E:\\asp.net projects\\ChatAppWithAngular\\ChatApp\\Api\\Dtos\\MessageDto.cs",
+              "RelativeToolTip": "Api\\Dtos\\MessageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:15:03.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "E:\\asp.net projects\\ChatAppWithAngular\\ChatApp\\Api\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Api\\Hubs\\ChatHub.cs",
+              "ToolTip": "E:\\asp.net projects\\ChatAppWithAngular\\ChatApp\\Api\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Api\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAIwD8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:11:59.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
